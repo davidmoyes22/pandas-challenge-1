@@ -1,1 +1,8 @@
 # pandas-challenge-1
+"Welcome to this module challenge focused on data analysis with Python's Pandas library. As a crucial component in various fields, such as data science, machine learning, and business intelligence, practical data analysis involves examining, cleaning, processing, and extracting useful information from large datasets. This assignment provides a hands-on opportunity to develop these skills.
+
+In this challenge, we'll dive into a dataset from a fictional e-commerce company, exploring and analyzing data to address real-world business questions. Your mission will involve identifying top customers, popular product categories, calculating profits, and more. By the end of this task, you'll have a practical understanding of data exploration, transformation, and analysis, preparing you for more complex data scenarios in your future career."
+## Code Considerations
+* In this line of code "df["total_weight"] = df["unit_weight"] * df["qty"]", the tutor helped me to realize that the unit weight had to be multiplied by the quantity in order to define the total weight. Previously, I had tried just using the unit weight directly.
+* In part 4, the tutor and online learning assitants gave me a lot of help to fix the functions that I was trying to create to manipulate and clean the data.
+* I used the Expert Learning Assistant to check some bits of my code for small discrepancies as well as explain to me what was meant by some of the prompts like "# Which five clients had the most entries in the data?". I was curious if most entries meant the most orders or the highest quantity of items purchased.
